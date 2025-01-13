@@ -62,7 +62,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 [Ali Tümer]  - aetumer@gmail.com
 
-Proje Linki: [https://github.com/kullaniciadi/AracKiralama](https://github.com/kullaniciadi/AracKiralama)
+Proje Linki: https://github.com/alitumer0/RentACar-EF-WinForms [https://github.com/alitumer0/RentACar-EF-WinForms]
 
  
 
